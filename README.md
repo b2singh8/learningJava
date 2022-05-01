@@ -6,3 +6,5 @@ third comment
 4th comment direcltly on github site inside main branch readmi file
 
 5th comment for resolving conflicts cli
+
+5th commit git ui
