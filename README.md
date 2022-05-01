@@ -10,6 +10,7 @@ this is 3rd commit in newbranch cli
 third comment
 
 #adding 7th commit newbranch cli 
+#new comment on main branch cli 
 
 4th comment direcltly on github site inside main branch readmi file
 
