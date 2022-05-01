@@ -7,7 +7,9 @@ ok this is 2nd commit for newbranch
 
 this is 3rd commit in newbranch cli
 
-third comment 
+third comment
+
+#new comment on main branch cli 
 
 4th comment direcltly on github site inside main branch readmi file
 
